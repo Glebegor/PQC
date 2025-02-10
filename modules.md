@@ -1,10 +1,10 @@
 # Modules 
 
 Algorithms
--   Kyber
+-   Kyber+
+-   Dilithium
 -   Falcon
 -   Sphincs
--   Dilithium
 -   Graph/metrics
 
 Implementation
