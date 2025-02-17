@@ -1,16 +1,20 @@
 # Modules 
 
-Algorithms
--   Kyber+
+Cryptographic Algorithms
+-   Falcon+
+-   Kyber
 -   Dilithium
--   Falcon
 -   Sphincs
+-   Python implementation
 -   Graph/metrics
+
+Quantum Algorithms:
+- HHL
+- QTF
 
 Implementation
 -   WEB
 -   Tunneling/vpn
--   Encryption/decryption
 -   Graph/metrics
 
 Breaking
