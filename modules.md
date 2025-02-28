@@ -2,15 +2,16 @@
 
 Cryptographic Algorithms
 -   Falcon+
--   Kyber
--   Dilithium
--   Sphincs
--   Python implementation
+-   Kyber+
+-   Dilithium+
+-   Sphincs+
+-   Python implementation+
 -   Graph/metrics
 
 Quantum Algorithms:
 - HHL
 - QTF
+- Graph/metrics
 
 Implementation
 -   WEB
