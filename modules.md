@@ -6,12 +6,12 @@ Cryptographic Algorithms
 -   Dilithium+
 -   Sphincs+
 -   Python implementation+
--   Graph/metrics
+-   Graph/metrics+
 
 Quantum Algorithms:
-- HHL
-- QTF
-- Graph/metrics
+- HHL+
+- QTF+
+- Graph/metrics+
 
 Implementation
 -   WEB
@@ -19,7 +19,7 @@ Implementation
 -   Graph/metrics
 
 Breaking
--   Quantum computing introduction
--   Shor Algorithm
--   Grover Algorithm
--   Graph/metrics
+-   Quantum computing introduction+
+-   Shor Algorithm+
+-   Grover Algorithm+
+-   Graph/metrics+
